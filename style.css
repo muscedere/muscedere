@@ -1,0 +1,152 @@
+
+
+/* NAVBAR */
+.nav-item
+{
+	margin-left: 45px;
+	font-size: 1.1em;
+	text-align: center;
+}
+.navbar-brand
+{
+	font-size: 1.6em;
+}
+/* CAROUSEL */
+.carousel-caption
+{
+	margin-bottom: 70px;
+}
+.carousel-caption h5
+{
+	font-size: 1.8em;
+	color: black;
+}
+.carousel-caption p
+{
+	font-size: 1.5em;
+	color:black;
+}
+.titre-fellows
+{
+	font-size: 1.5em;
+
+}
+/* BUTTON MOST*/
+.pills
+{
+  margin-bottom: 40px;
+}
+.button-pills a
+{
+	text-decoration: none;
+	color: grey;
+	padding: 10px;
+}
+.most-wanted
+{
+	background-color: grey;
+	padding: 10px;
+	border-radius: 5px;
+	color: #fff;
+}
+/* GANDALF CARD */
+.cards
+{
+  margin-top: 30px;
+}
+
+.gandalf
+{
+
+     
+  width: 100%;
+  
+}
+.gandalf img:hover
+{
+ opacity: 1; 
+ transition-duration: 1s;
+}
+
+.gandalf img
+{
+  width: 100%;
+  margin: 0 auto;
+  opacity: 0.6;
+}
+
+.reward
+{ 
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  width: 90%;
+  border-radius: 8px;
+  background-color:lightgrey;
+  top: -330px;
+}
+.gandalf:hover .reward 
+{     
+  opacity: 0;
+  transition: 1s;
+}
+.reward p
+{
+  font-size: 16px;
+  font-family:sans-serif; 
+  color : #000;
+  text-align: center;
+  padding:3px;
+}
+.hr-gandalf hr
+{
+  margin-top: 0px;
+}
+
+.orange
+{
+  color : orange;
+}
+.description-gandalf
+{
+	color: black;
+	
+}
+/*HR*/
+
+hr{
+  margin-top: 20px;
+  border: 1px solid black;
+}
+/* SECTION CAPTURED*/
+.captured
+{
+  margin-top:50px;
+}
+.button
+{
+  text-align: center;
+}
+/*SECTION TABLEAU*/
+.table 
+{
+  text-align: center;
+}
+.gollum img
+{
+  border-radius: 50%;
+}
+/*SECTION JOIN*/
+.button{
+  text-align: center;
+}
+/*SECTION FORMULAIRE*/
+form
+{
+  width:80%;
+}
+/*SECTION FOOTER*/
+footer
+{
+  color:#fff;
+}
